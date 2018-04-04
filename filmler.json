@@ -1,0 +1,33 @@
+[
+   {
+    "filmAdi":"Akil Oyunlari",
+    "filmAdiIngilizce":"Beatiful Mind",
+    "resim":"http://ia.media-imdb.com/images/M/MV5BMTQ4MDI2MzkwM",
+    "resimTamEkran":""
+    "imdbPuani":8.2,
+    "cikisYili":"2001",
+    "kategori":["Biografi","Drama"],
+    "filmKonusu":"John Forbes Nash kazandığı bir bursla Princeton Universitesinde Oğreninm Görmeye Başlar.Bu süreçte Parlak zekasini her daim hissettiren ve çevresindekilerle uyum sorunu yaşayan dahi nash,inabilmaz bir teoriyi ortaya sürüp kanıtlama aşamasına kadar gelir.Böylece matematik cevrelerinde ününü yayar\n."
+   },
+   {
+    "filmAdi":"V For Vendetta",
+    "filmAdiIngilizce":"V For Vendetta",
+    "resim":"",
+    "resimTamEkran":"",
+    "imdbPuani":8.2,
+    "cikisYili":"2012",
+    "kategori":["Aksiyon","Macera","BilimKurgu"],
+    "filmKonusu":"SHIELD adiyla taninan uluslararası baris orgutunun başindaki isim Nick Fury,tum dunyanın guvenlıgıne karsı büyük bir tehdit oluşturan duşmanla karsı karsıya kalir.Fury,dunyaya kurtarmak için cesur bir adım atar"
+  },
+  {
+   "filmAdi":"Yenilmezler",
+   "filmAdiIngilizce":"Avengers",
+   "resim":"",
+   "resimTamEkran":"http"
+   "imdbPuani":8.2,
+    cikisYili:"2012",
+    "kategori":["Aksiyon,"Macera","Bilim Kurgu"],
+    "filmKonusu":"Küçük bir Sahil kasdabasında geçen efsanbevi bir direniş"
+   }
+]
+ 
