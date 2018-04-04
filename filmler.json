@@ -3,7 +3,7 @@
     "filmAdi":"Akil Oyunlari",
     "filmAdiIngilizce":"Beatiful Mind",
     "resim":"http://ia.media-imdb.com/images/M/MV5BMTQ4MDI2MzkwM",
-    "resimTamEkran":""
+    "resimTamEkran":"",
     "imdbPuani":8.2,
     "cikisYili":"2001",
     "kategori":["Biografi","Drama"],
@@ -23,10 +23,10 @@
    "filmAdi":"Yenilmezler",
    "filmAdiIngilizce":"Avengers",
    "resim":"",
-   "resimTamEkran":"http"
+   "resimTamEkran":"http",
    "imdbPuani":8.2,
-    cikisYili:"2012",
-    "kategori":["Aksiyon,"Macera","Bilim Kurgu"],
+    "cikisYili":"2012",
+    "kategori":["Aksiyon","Macera","Bilim Kurgu"],
     "filmKonusu":"Küçük bir Sahil kasdabasında geçen efsanbevi bir direniş"
    }
 ]
